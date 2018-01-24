@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/libs/jsoup-1.11.2.jar" sourcepath="F:/libs/jsoup-1.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/newworkspace/VIP/WebContent/WEB-INF/lib/commons-lang3-3.1.jar" sourcepath="C:/Users/Admin/.m2/repository/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
