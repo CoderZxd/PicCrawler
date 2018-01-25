@@ -147,7 +147,7 @@ public class PicCrawler implements Runnable{
 								URL imgurl = new URL(imgSrc);    
 								// 打开连接    
 								URLConnection con = imgurl.openConnection();    
-								//设置请求超时为5s    
+								//设置请求超时为10s    
 								con.setConnectTimeout(10*1000);    
 								// 输入流    
 								InputStream is = con.getInputStream();    
